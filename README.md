@@ -13,3 +13,4 @@ This project demonstrates object tracking using the CamShift algorithm in OpenCV
 
 ```bash
 python camshift.py --video path/to/video.mov
+
